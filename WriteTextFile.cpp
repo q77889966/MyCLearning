@@ -9,7 +9,7 @@ int main()
 		exit(1);
 	}
 	
-	const char *text = "╡Бйтнд╠╬";
+	const char *text = "TestGitHubEdit";
 	fprintf(f, "Some text: %s\n", text);
 	
 	int i = 1;
