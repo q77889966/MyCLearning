@@ -10,7 +10,7 @@ int main()
 	}
 	
 	const char *text = "TestGitHubEdit";
-	fprintf(f, "Some text: %s\n", text);
+	fprintf(f, "%s\n", text);
 	
 	int i = 1;
 	float py = 3.1415927;
